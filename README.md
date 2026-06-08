@@ -88,26 +88,25 @@ Me chamo Thalita Pinho tenho 20 anos, sou desenvolvedora de sistemas, e sou natu
 ---
 
 ### 📊 Estatísticas
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Yotinea-Z&rank_icon=github&show_icons=true&theme=radical&count_private=true"
-  />
 
-  <img
-    height="180em"
-    src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Yotinea-Z&layout=compact&theme=radical&count_private=true"
-  />
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Yotinea-Z&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Yotinea-Z&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Profile Details"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yotinea-Z&theme=radical"/>
 </div>
+
+
 
 <br>
+<br>
 
-<div align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yotinea-Z&theme=radical"
-  />
-</div>
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Mais Informações</b>
+      </samp>
+  </summary>
   
 <br>
 
