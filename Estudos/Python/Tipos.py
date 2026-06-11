@@ -1,0 +1,10 @@
+#Descobrir o tipo da entrada ou se só tem espaços 
+a = input('Digite algo ')
+print(f'O tipo desse valor é ', type(a))
+print('só tem espaços? ', a.isspace())
+print('Só possui números?', a.isnumeric())
+print('É alfabético?', a.isalpha())
+print('É alfanumérico?', a.isalnum())
+print('Está em maiusculo?', a.isupper())
+print('Está em minusculo?', a.islower())
+print('Está Capitalizada?', a.istitle())
