@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Sistemas`**
 
-Me chamo Thalita Pinho tenho 20 anos, sou desenvolvedora de sistemas, e sou natural da Bahia. Estou cursando atualmente Desenvolvimento de sistemas no SENAI, estou ultimo semestre. Estou buscando cada vez mais conhecimento e fico feliz com o apoio de todos!
+Me chamo Thalita Pinho tenho 20 anos, sou desenvolvedora de sistemas, e sou natural da Bahia. Estou cursando atualmente Desenvolvimento de sistemas no SENAI, estou no ultimo semestre. Estou buscando cada vez mais conhecimento e fico feliz com o apoio de todos!
 
 <p align="left">
     <a href="https://github.com/Yotinea-Z?tab=repositories&sort=stargazers">
